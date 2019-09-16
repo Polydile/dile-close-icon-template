@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Polydile/dile-close-icon-template/issues"
   },
-  "homepage": "https://github.com/Polydile/dile-close-icon-template#readme"
+  "homepage": "https://github.com/Polydile/dile-close-icon-template#readme",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  }
 }
