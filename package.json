@@ -1,6 +1,6 @@
 {
   "name": "dile-close-icon-template",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple close icon created in a LitElement template to use in Web Components",
   "main": "dile-close-icon-template.js",
   "scripts": {
