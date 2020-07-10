@@ -1,3 +1,7 @@
+# Moved
+
+**This package has moved** and is now available at [@dile/dile-close-icon-template](https://github.com/Polydile/dile-components). Please update your dependencies. This repository is no longer maintained.
+
 # dile-close-icon-template
 
 LitElement Template to implement a close icon
